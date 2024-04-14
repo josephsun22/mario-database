@@ -82,3 +82,9 @@ git remote set-url origin https://github.com/josephsun22/mario-database.git
 git push -u origin main
 __vsc_prompt_cmd_original
 echo hello PostgreSQL
+git checkout -b solution
+git checkout
+git checkout -b
+git checkout -b solution
+git push --set-upstream origin solution
+git add .
